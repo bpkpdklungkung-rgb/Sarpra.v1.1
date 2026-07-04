@@ -1,5 +1,5 @@
 // GANTI URL INI DENGAN URL WEB APP ANDA
-const API_URL = 'https://script.google.com/macros/s/AKfycbyHASGzzJkVXVoPkznQlFJLMZVFIgFzmyS9twG8WhmMO56yDQih86i5R6W6mkhsxv4/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbxCG1y3Mw6AfF2GvE2eb3MSUQX3o1KDtuJ_3cZum8shWQJJn3GEWczQTCJwEo8iUeIMKg/exec';
 
 async function apiGet(action, params = {}) {
     try {
